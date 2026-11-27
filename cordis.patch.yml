@@ -1,0 +1,4 @@
+# dsh-shuguang-pet — Cordis bundle patch
+- insert:
+    - id: dsh-shuguang-pet
+      name: dsh-shuguang-pet
